@@ -8,7 +8,6 @@ var appShellFiles = [
   '/icons/favicon.ico',
   '/icons/icon-128.png',
 '/icons/icon-168.png',
-'/icons/icon-180.png',
 '/icons/icon-192.png',
   '/icons/icon-256.png',
   '/icons/icon-32.png',
